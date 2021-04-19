@@ -11,7 +11,7 @@ require_once 'php/init.php';
   </head>
   <body>
     <nav class="navbar navbar-dark bg-dark shadow">
-      <span class="navbar-brand mb-0 h1">To-do List Test</span>
+      <span class="navbar-brand mb-0 h1">App for schedule</span>
     </nav>
     <div class="container mt-5">
       <?php waiter();?>
